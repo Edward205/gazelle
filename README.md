@@ -19,5 +19,5 @@ The Lua API provides methods to create text and buttons with links to other file
 If someone would like to continue to work on this idea, please contact me at the e-mail address on my profile! 
 
 # Acknowledgments
-Lazy Foo's SDL2 tutorials: https://lazyfoo.net/tutorials/SDL/
-Titillium font designed by Accademia di Belle Arti di Urbino
+* Lazy Foo's SDL2 tutorials: https://lazyfoo.net/tutorials/SDL/
+* Titillium font designed by Accademia di Belle Arti di Urbino
