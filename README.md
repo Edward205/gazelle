@@ -20,4 +20,4 @@ If someone would like to continue to work on this idea, please contact me at the
 
 # Acknowledgments
 Lazy Foo's SDL2 tutorials: https://lazyfoo.net/tutorials/SDL/
-Titillium font
+Titillium font designed by Accademia di Belle Arti di Urbino
