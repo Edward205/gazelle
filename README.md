@@ -15,6 +15,8 @@ I have also included a pre-compiled version in the releases section, but beware 
 # Features
 The Lua API provides methods to create text and buttons with links to other files, as well as positioning them within the page. Check the page.lua file for a demonstration.
 
+![gazelle_userlayout_FPtNxP1WD4](https://github.com/user-attachments/assets/91e3df67-e217-4e6f-aa75-339a45c92662)
+
 # Contact me
 If someone would like to continue to work on this idea, please contact me at the e-mail address on my profile! 
 
